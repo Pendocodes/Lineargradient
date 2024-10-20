@@ -61,7 +61,8 @@ form {
   height: 300px;
   display: flex;
   flex-direction: column;
-  padding-left: 40%;
+  /* padding-left: 40%; */
+  align-items: center;
 }
 
 input {
@@ -169,7 +170,7 @@ p {
   h4{
     width: 100%;
     /* padding-left: 5%; */
-    margin-left: 5%;  
+    /* margin-left: 5%;   */
 /* margin-right: 5%; */
   }
 
